@@ -1,0 +1,230 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(background-1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	position:relative;
+	width:100%;
+	height:590px;
+	margin:0px;
+}
+
+
+.header{
+	background: #454951;
+	position:absolute;
+	width:92.4%;
+	height:9.2%;
+	top:0%;
+	color:#FFF;
+	text-align:center;
+	font-size:50px;
+	left:8.5%;
+
+}
+
+
+
+.logo{
+	background:#454951;
+	position:absolute;
+	width:7.4%;
+	height:16.5%;
+	top:0%;
+	left:1%;
+
+}
+
+
+
+.menubarArea{
+	background:;
+	width:%;
+	height:6%;
+	top:9.5%;
+	left:8.5%;
+	right:0px;
+	color:#FFF;
+	
+	position:absolute;
+}
+
+
+
+
+.logo2{
+	position:absolute;
+	width:400px;
+	height:400px;
+	top:30%;
+	right:100px;
+}
+
+
+
+
+
+
+
+.menubarArea ul{
+	margin:0px;
+	padding:0px;
+	color:#FFF;
+	list-style:none;
+}
+
+.menubarArea ul li{
+	float:left;
+	width:200px;
+	height:40px;
+	color:#FFF;
+	background-color: #000;
+	opacity:.8;
+	line-height:40px;
+	text-align:center;
+	font-size:20px;
+	margin-right:2px;
+}
+
+.menubarArea ul li a{
+	text-decoration:none;
+	color:#FFF;
+	display:block;
+}
+
+.menubarArea ul li a:hover{
+	background:green;
+}
+
+.menubarArea ul li ul li{
+	display:none;
+}
+
+.menubarArea ul li:hover ul li{
+	display:block;
+}
+
+
+
+
+
+.address{
+	background: #FFF;
+	position:absolute;
+	left:25px;
+	top:50%;
+	width:450px;
+	height:300px;
+}
+
+.hereMe{
+	background: #FFF;
+	position:absolute;
+	bottom:120px;
+	left:100px;
+	width:50%;
+	height:10%;
+	
+}
+
+
+.hereMe a:link{
+	text-decoration:none;
+	color:#900;
+}
+
+.hereMe a:visited{
+	text-decoration:none;
+	color:#900;
+}
+
+
+
+
+.footer{
+	background:#CCC;
+	position:absolute;
+	right:0px;
+	top:135%;
+	width:100%;
+	height:10%;
+	text-align:center;
+	
+}
+
+.footerText1{
+	background:;
+	position:absolute;
+	top:20px;
+	left:0px;
+	width:250px;
+	height:40px;
+}
+
+.footerText2{
+	background:;
+	position:absolute;
+	top:5px;
+	right:50px;
+	width:250px;
+	height:0px;
+}
+
+.footerText3{
+	background:;
+	position:absolute;
+	top:45px;
+	right:750px;
+	width:400px;
+	height:0px;
+}
+
+.footerText4{
+	background:;
+	position:absolute;
+	top:45px;
+	right:300px;
+	width:400px;
+	height:0px;
+}
+
+
+
+.facebook{
+	background:;
+	position:absolute;
+	top:25px;
+	right:200px;
+	width:30px;
+	height:30px;
+}
+
+.linkedin{
+	background:;
+	position:absolute;
+	top:25px;
+	right:150px;
+	width:30px;
+	height:30px;
+}
+
+.Twitter{
+	background:;
+	position:absolute;
+	top:25px;
+	right:100px;
+	width:30px;
+	height:30px;
+}
+
+.instagram{
+	background:;
+	position:absolute;
+	top:25px;
+	right:50px;
+	width:30px;
+	height:30px;
+}
+

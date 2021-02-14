@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+	background:#000;
+	position:relative;
+	width:100%;
+	height:100%;
+	margin:0px;
+}
+
+
+.logo{
+	background: #CCC;
+	position:absolute;
+	width:100px;
+	height:100px;
+	top:55px;
+	left:15px;
+
+}
+
+.name{
+	background: #CCC;
+	position:absolute;
+	width:200px;
+	height:30px;
+	top:125px;
+	left:116px;
+
+}
+
+	
+.table{
+	position:absolute;
+	top:10px;
+	left:5px;
+	text-align:center;
+	width:52%;
+	border:#FFF;
+		
+}
+
+
+.midBox{
+	background: #0F0;
+	position:absolute;
+	top:155PX;
+	left:350px;
+	width:50%;
+	height:65%;
+}
+
+
+.nextButton{
+	
+	position:absolute;
+	left:5px;
+	bottom:90px;
+	width:20%;
+	height:3%;
+	text-align:center;	
+}
+
+
+.footer{
+	background:#CCC;
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	width:100%;
+	height:10%;
+	text-align:center;
+	
+}
+
+.footerText1{
+	background:;
+	position:absolute;
+	top:20px;
+	left:20px;
+	width:250px;
+	height:40px;
+}
+
+.footerText2{
+	background:;
+	position:absolute;
+	top:0px;
+	right:50px;
+	width:250px;
+	height:0px;
+}
+
+.footerText3{
+	background:;
+	position:absolute;
+	top:60px;
+	right:750px;
+	width:400px;
+	height:0px;
+}
+
+.footerText4{
+	background:;
+	position:absolute;
+	top:60px;
+	right:300px;
+	width:400px;
+	height:0px;
+}
+
+
+
+.facebook{
+	background:;
+	position:absolute;
+	top:30px;
+	right:260px;
+	width:40px;
+	height:40px;
+}
+
+.linkedin{
+	background:;
+	position:absolute;
+	top:30px;
+	right:190px;
+	width:40px;
+	height:40px;
+}
+
+.Twitter{
+	background:;
+	position:absolute;
+	top:30px;
+	right:120px;
+	width:40px;
+	height:40px;
+}
+
+.instagram{
+	background:;
+	position:absolute;
+	top:30px;
+	right:50px;
+	width:40px;
+	height:40px;
+}
+
